@@ -23,7 +23,7 @@
 }
 
 .feature {
-  border-left: 1px solid #cecece;
+  -left: 1px solid #cecece;
   max-width: 360px;
   /* padding-left: 24px; */
 }
@@ -112,7 +112,7 @@
   width: 90%;
 }
 
-.calendly-features h4 {
+.calendly-features h3 {
   font: 900 normal 24px/32px var(--font);
 }
 

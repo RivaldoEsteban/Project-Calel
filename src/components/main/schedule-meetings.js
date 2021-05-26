@@ -12,7 +12,7 @@ function ScheduleMeetings() {
         <div className="calendly-features">
           <img src="./images/left.png" alt="" />
           <div>
-            <h4>Reúnase de la forma que desee</h4>
+            <h3>Reúnase de la forma que desee</h3>
             <p>
               Muestre disponibilidad en su horario solo los días y las horas que
               se adapten a usted. Cuando su invitado elija la hora de la
@@ -23,7 +23,7 @@ function ScheduleMeetings() {
         <div className="calendly-features">
           <img src="images/right.png" alt="" />
           <div>
-            <h4>Calel lo coordina todo</h4>
+            <h3>Calel lo coordina todo</h3>
             <p>
               Las reuniones se programan sin conflictos de calendario, los
               recordatorios se envían automáticamente y reprogramar supone una

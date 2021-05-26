@@ -13,7 +13,7 @@ function Advantage() {
       </div>
       <div className="work-flow">
         <div>
-          <h5 className="sub-title">GESTIÓN DE FLUJOS DE TRABAJO</h5>
+          <p className="sub-title">GESTIÓN DE FLUJOS DE TRABAJO</p>
           <h3 className="title">Automatice recordatorios y seguimientos</h3>
           <p className="texto">
             Calel automatiza sus reuniones con flujos de trabajo y envía desde
@@ -32,7 +32,7 @@ function Advantage() {
           <img src="./images/llamada.png" alt="" />
         </div>
         <div>
-          <h5 className="sub-title">PROGRAMACIÓN BAJO DEMANDA</h5>
+          <p className="sub-title">PROGRAMACIÓN BAJO DEMANDA</p>
           <h3 className="title">
             Haga más contactos y reduzca las cancelaciones
           </h3>
@@ -46,7 +46,7 @@ function Advantage() {
       </div>
       <div className="focues-calel">
         <div>
-          <h5 className="sub-title">EL ENFOQUE CORTÉS</h5>
+          <p className="sub-title">EL ENFOQUE CORTÉS</p>
           <h3 className="title">
             Deleite a los invitados con una programación moderna
           </h3>
@@ -63,7 +63,7 @@ function Advantage() {
       <div className="sales-representative">
         <img src="./images/person.png" alt="" />
         <div>
-          <h5 className="sub-title">BITLY</h5>
+          <p className="sub-title">BITLY</p>
           <p className="sales-representative-txt">
             Los representantes de desarrollo de ventas no solo acaban con todo
             un calendario lleno de clientes potenciales con los que hablar, sino
