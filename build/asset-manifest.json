@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Project-Calel/static/css/main.88d64eb8.chunk.css",
+    "main.css": "/Project-Calel/static/css/main.85c745e6.chunk.css",
     "main.js": "/Project-Calel/static/js/main.0be57fa5.chunk.js",
     "main.js.map": "/Project-Calel/static/js/main.0be57fa5.chunk.js.map",
     "runtime-main.js": "/Project-Calel/static/js/runtime-main.1a9fe3dd.js",
@@ -10,13 +10,13 @@
     "static/js/3.d8e3664e.chunk.js": "/Project-Calel/static/js/3.d8e3664e.chunk.js",
     "static/js/3.d8e3664e.chunk.js.map": "/Project-Calel/static/js/3.d8e3664e.chunk.js.map",
     "index.html": "/Project-Calel/index.html",
-    "static/css/main.88d64eb8.chunk.css.map": "/Project-Calel/static/css/main.88d64eb8.chunk.css.map",
+    "static/css/main.85c745e6.chunk.css.map": "/Project-Calel/static/css/main.85c745e6.chunk.css.map",
     "static/js/2.e71028dc.chunk.js.LICENSE.txt": "/Project-Calel/static/js/2.e71028dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1a9fe3dd.js",
     "static/js/2.e71028dc.chunk.js",
-    "static/css/main.88d64eb8.chunk.css",
+    "static/css/main.85c745e6.chunk.css",
     "static/js/main.0be57fa5.chunk.js"
   ]
 }
