@@ -1,0 +1,192 @@
+@media (max-width: 1400px) {
+  .hero-content {
+    display: block;
+    text-align: center;
+  }
+  .hero-description {
+    margin: auto;
+  }
+  .hero-form {
+    justify-content: center;
+    margin-bottom: 40px;
+  }
+  .feature {
+    border-left: 1px solid #cecece;
+  }
+}
+
+@media (max-width: 1200px) {
+  .advantage-title h2 {
+    margin-bottom: 1.5rem;
+  }
+  .footer-content {
+    position: relative;
+    padding-top: 70px;
+  }
+  .footer-content img {
+    position: absolute;
+    top: 0px;
+  }
+  .work-flow {
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  .work-flow,
+  .efficient-calls,
+  .focues-calel,
+  .sales-representative,
+  .free-trial {
+    flex-direction: column;
+  }
+  .work-flow div,
+  .efficient-calls div,
+  .focues-calel div,
+  .sales-representative div,
+  .free-trial div {
+    width: 100%;
+    margin: auto;
+  }
+  .efficient-calls div img,
+  .work-flow div img,
+  .focues-calel div img,
+  .sales-representative img,
+  .free-trial div img {
+    margin: auto;
+    display: block;
+    margin-bottom: 1.5rem;
+  }
+
+  .work2,
+  .focus2 {
+    order: 1;
+  }
+  .work1,
+  .focus1 {
+    order: 2;
+  }
+
+  .sales-representative {
+    gap: 1.5rem;
+  }
+  .corona img {
+    margin: 0;
+  }
+  .free-trial h2 {
+    font: 900 normal 50px/48px var(--font);
+  }
+  .free1 {
+    order: 1;
+  }
+  .free2 {
+    order: 3;
+  }
+  .free2 p {
+    font: 900 normal 24px/38px var(--font);
+  }
+  .free3 {
+    order: 2;
+    margin: auto;
+    display: block;
+  }
+  .footer-content {
+    flex-wrap: wrap;
+  }
+  .navigation ul {
+    display: none;
+  }
+  .busines-logos {
+    flex-wrap: wrap;
+    gap: 50px;
+  }
+  .busines-content h2 {
+    width: 100%;
+  }
+  .functioning-features {
+    flex-direction: column;
+    align-items: center;
+    /* width: 50%; */
+    /* margin: auto; */
+  }
+  .functioning-container img {
+    width: 100%;
+  }
+  .hero-title {
+    font: 900 normal 50px/58px var(--font);
+  }
+  .hero-title b {
+    font: 900 normal 50px/58px var(--font);
+  }
+  .hero-txt {
+    font: 400 normal 18px/30px var(--font);
+    margin-top: 1.5rem;
+  }
+  .hero-img img {
+    width: 100%;
+  }
+  .calendly {
+    flex-direction: column;
+  }
+  .calendly-features img {
+    margin: auto;
+  }
+  .sales-representative-txt {
+    font: 900 normal 24px/38px var(--font);
+  }
+}
+
+@media (max-width: 700px) {
+  .busines-logos {
+    flex-wrap: wrap;
+    gap: 50px;
+    width: 100%;
+  }
+  .busines-logos img {
+    width: 40%;
+  }
+  .free-trial {
+    gap: 20px;
+    grid-gap: 0;
+  }
+  .footer-content {
+    /* flex-direction: column; */
+  }
+  .efficient-calls div img,
+  .work-flow div img,
+  .focues-calel div img,
+  .sales-representative img,
+  .free-trial div img {
+    width: 340px;
+  }
+  .calendly-features img {
+    max-width: 350px;
+    height: 250px;
+  }
+  .scheduleMeetings h2 {
+    font: 900 normal 32px/52px var(--font);
+  }
+  .functioning-title {
+    font: 900 normal 40px/64px var(--font);
+  }
+  .drop {
+    width: 12% !important;
+  }
+  .registro a {
+    display: none;
+  }
+  .wrapper {
+    padding: 0 40px;
+  }
+  .footer-enlases {
+    width: 40%;
+    max-width: 100%;
+  }
+  .busines-logos img {
+    width: 35%;
+  }
+  .corona img {
+    width: 190px;
+    height: auto;
+  }
+}

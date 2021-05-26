@@ -12,7 +12,7 @@ function Advantage() {
         </p>
       </div>
       <div className="work-flow">
-        <div>
+        <div className="work1">
           <p className="sub-title">GESTIÓN DE FLUJOS DE TRABAJO</p>
           <h3 className="title">Automatice recordatorios y seguimientos</h3>
           <p className="texto">
@@ -23,7 +23,7 @@ function Advantage() {
             unipersonal.
           </p>
         </div>
-        <div>
+        <div className="work2">
           <img src="./images/automatiza.png" alt="" />
         </div>
       </div>
@@ -45,7 +45,7 @@ function Advantage() {
         </div>
       </div>
       <div className="focues-calel">
-        <div>
+        <div className="focus1">
           <p className="sub-title">EL ENFOQUE CORTÉS</p>
           <h3 className="title">
             Deleite a los invitados con una programación moderna
@@ -56,7 +56,7 @@ function Advantage() {
             clics ahorra el máximo de tiempo para todos.
           </p>
         </div>
-        <div>
+        <div className="focus2">
           <img src="./images/phone.png" alt="" />
         </div>
       </div>
@@ -76,8 +76,8 @@ function Advantage() {
         </div>
       </div>
       <div className="free-trial">
-        <div>
-          <h2>Pruebe Calel gratis</h2>
+        <h2 className="free1">Pruebe Calel gratis</h2>
+        <div className="free2">
           <p>
             Tras su prueba de 14 días de nuestro plan Profesional, disfrute de
             la versión gratuita de Calendly para siempre.
@@ -86,7 +86,7 @@ function Advantage() {
             Para consultar sobre nuestros planes Enterprise, haga clic aquí.
           </a>
         </div>
-        <img src="./images/registro.png" alt="" />
+        <img className="free3" src="./images/registro.png" alt="" />
       </div>
     </section>
   );

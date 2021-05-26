@@ -11,7 +11,7 @@ function Business() {
           </h2>
           <div className="busines-logos">
             <img src="./images/compass.png" alt="" />
-            <img src="./images/drop.png" alt="" />
+            <img className="drop" src="./images/drop.png" alt="" />
             <img src="./images/ebay.png" alt="" />
             <img src="./images/lazboy.png" alt="" />
             <img src="./images/gartner.png" alt="" />
