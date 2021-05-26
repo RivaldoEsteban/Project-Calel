@@ -1,0 +1,57 @@
+.header-container {
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 24px 0;
+}
+
+.navigation {
+  max-width: 579px;
+  flex: 1;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.navigation ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+}
+
+.navigation ul li {
+  list-style: none;
+}
+
+.navigation ul li a {
+  text-decoration: none;
+  color: black;
+  text-transform: capitalize;
+  font: 600 normal 1rem/2rem var(--font);
+}
+
+.registro {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.registro a {
+  font: 700 normal 14px/28px var(--font);
+  color: black;
+  text-decoration: none;
+  margin: 0 24px;
+}
+
+.registro button {
+  background: #006bff;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font: 700 normal 14px/28px var(--font);
+  padding: 10px 24px;
+  border-radius: 30px;
+}

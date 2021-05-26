@@ -1,0 +1,251 @@
+.functioning-container {
+  margin: 128px 0;
+  text-align: center;
+}
+
+.functioning-p {
+  font: 600 normal 14px/24px var(--font);
+  margin: 0;
+  opacity: 0.64;
+}
+
+.functioning-title {
+  font: 900 normal 52px/65px var(--font);
+  margin: 24px 0 96px;
+}
+
+.functioning-features {
+  display: flex;
+  text-align: start;
+  gap: 24px;
+  margin-top: 96px;
+  justify-content: space-evenly;
+}
+
+.feature {
+  border-left: 1px solid #cecece;
+  max-width: 360px;
+  /* padding-left: 24px; */
+}
+
+.feature h3 {
+  font: 900 normal 24px/32px var(--font);
+  margin: 0;
+}
+
+.feature p {
+  font: 400 normal 18px/36px var(--font);
+  padding-left: 40px;
+}
+
+.feature.believe h3::before {
+  content: "1";
+  border: none;
+  font-size: 1rem;
+  border-radius: 50%;
+  padding: 10px 14px;
+  color: white;
+  background: #006bff;
+  position: relative;
+  right: 18px;
+  bottom: 3px;
+}
+
+.feature.share h3::before {
+  content: "2";
+  border: none;
+  font-size: 1rem;
+  border-radius: 50%;
+  padding: 10px 14px;
+  color: white;
+  background: #006bff;
+  position: relative;
+  right: 20px;
+  bottom: 3px;
+}
+.feature.recive h3::before {
+  content: "3";
+  border: none;
+  font-size: 1rem;
+  border-radius: 50%;
+  padding: 10px 14px;
+  color: white;
+  background: #006bff;
+  right: 19px;
+  position: relative;
+  bottom: 3px;
+}
+
+.scheduleMeetings {
+  text-align: center;
+  margin-bottom: 128px;
+}
+
+.scheduleMeetings h2 {
+  font: 900 normal 52px/65px var(--font);
+  max-width: 900px;
+  margin: auto;
+}
+.scheduleMeetings p {
+  max-width: 900px;
+  /* margin: auto; */
+}
+
+.calendly {
+  display: flex;
+  text-align: start;
+  gap: 24px;
+}
+
+.calendly-features {
+  text-align: center;
+}
+
+.calendly-features img {
+  height: 346px;
+  margin: 40px 0;
+  text-align: center;
+}
+
+.calendly-features p {
+  font: 400 normal 18px/36px var(--font);
+  width: 90%;
+}
+
+.calendly-features h4 {
+  font: 900 normal 24px/32px var(--font);
+}
+
+.calendly-features div {
+  text-align: start;
+}
+
+.scheduleMeetings button {
+  background: white;
+  border: 1px solid black;
+  margin: 40px 0 0 0;
+}
+
+.scheduleMeetings-txt {
+  font: 500 normal 24px/32px var(--font);
+  margin: 40px auto 80px;
+}
+
+.advantage-container {
+}
+
+.advantage-container div {
+  /* margin-bottom: 128px; */
+}
+.advantage-title {
+  text-align: center;
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 136px;
+}
+
+.work-flow {
+  display: flex;
+  align-items: center;
+  margin-bottom: 128px;
+}
+
+.work-flow div {
+  width: 50%;
+}
+.work-flow div img {
+  margin: auto;
+  display: block;
+}
+
+.advantage-title h2 {
+  font: 900 normal 52px/65px var(--font);
+  margin: 0;
+}
+.advantage-title p {
+  font: 500 normal 24px/32px var(--font);
+  margin: 0;
+}
+
+.sub-title {
+  font: 600 normal 14px/24px var(--font);
+  margin: 0;
+  opacity: 0.64;
+}
+
+.title {
+  margin: 32px 0;
+  font: 900 normal 40px/48px var(--font);
+}
+
+.texto {
+  margin: 0;
+  font: 400 normal 18px/36px var(--font);
+}
+
+.efficient-calls {
+  display: flex;
+  align-items: center;
+  margin-bottom: 128px;
+}
+
+.efficient-calls div {
+  width: 50%;
+}
+
+.focues-calel {
+  display: flex;
+  align-items: center;
+  margin-bottom: 128px;
+}
+
+.focues-calel div {
+  width: 50%;
+}
+
+.sales-representative {
+  display: flex;
+  gap: 110px;
+  align-items: flex-start;
+  margin-bottom: 128px;
+}
+
+.sales-representative-txt {
+  font: 900 normal 31px/40px var(--font);
+}
+
+.person-name {
+  color: #006bff;
+  font: 900 normal 24px/32px var(--font);
+}
+
+.corona {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.free-trial {
+  display: flex;
+  align-items: flex-start;
+  gap: 170px;
+  margin-bottom: 128px;
+}
+
+.free-trial h2 {
+  font: 900 normal 90px/90px var(--font);
+  margin: 0;
+}
+
+.free-trial a {
+  font: 400 normal 18px/36px var(--font);
+  text-decoration: none;
+  color: black;
+}
+
+.free-trial p {
+  font: 500 normal 24px/32px var(--font);
+}
+
+.free-trial div {
+  max-width: 790px;
+}
