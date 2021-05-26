@@ -6,8 +6,10 @@
 }
 
 .footer-enlases {
+  box-sizing: border-box;
   max-width: 200px;
-  flex: 1;
+  flex-shrink: 1;
+  /* flex: 1; */
 }
 
 .footer-enlases ul {
@@ -32,5 +34,6 @@
 .footer-content {
   display: flex;
   align-items: flex-start;
+  justify-content: space-evenly;
   gap: 24px;
 }
