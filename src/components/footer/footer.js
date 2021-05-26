@@ -5,7 +5,7 @@ function Footer() {
     <footer className="footer-container">
       <div className="wrapper">
         <div className="footer-content">
-          <img src="./images/logo.png" alt="" />
+          <img src="images/logo.png" alt="" />
           <div className="footer-enlases">
             <h3>Acerca de</h3>
             <ul>
