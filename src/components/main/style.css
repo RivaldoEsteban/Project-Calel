@@ -221,8 +221,15 @@
 .free-trial {
   display: flex;
   align-items: flex-start;
-  gap: 170px;
+  gap: 40px;
   margin-bottom: 128px;
+  flex-direction: column;
+  position: relative;
+}
+
+.free3 {
+  position: absolute;
+  right: 0;
 }
 
 .free-trial h2 {

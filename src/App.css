@@ -14,6 +14,11 @@
     border-left: 1px solid #cecece;
   }
 }
+@media (max-width: 1300px) {
+  .free3 {
+    position: relative;
+  }
+}
 
 @media (max-width: 1200px) {
   .advantage-title h2 {
